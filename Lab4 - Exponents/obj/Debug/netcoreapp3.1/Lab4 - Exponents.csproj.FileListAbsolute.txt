@@ -1,0 +1,13 @@
+D:\GrandCircus\Week1\Lab4 - Exponets table\Lab4 - Exponents\Lab4 - Exponents\bin\Debug\netcoreapp3.1\Lab4 - Exponents.exe
+D:\GrandCircus\Week1\Lab4 - Exponets table\Lab4 - Exponents\Lab4 - Exponents\bin\Debug\netcoreapp3.1\Lab4 - Exponents.deps.json
+D:\GrandCircus\Week1\Lab4 - Exponets table\Lab4 - Exponents\Lab4 - Exponents\bin\Debug\netcoreapp3.1\Lab4 - Exponents.runtimeconfig.json
+D:\GrandCircus\Week1\Lab4 - Exponets table\Lab4 - Exponents\Lab4 - Exponents\bin\Debug\netcoreapp3.1\Lab4 - Exponents.runtimeconfig.dev.json
+D:\GrandCircus\Week1\Lab4 - Exponets table\Lab4 - Exponents\Lab4 - Exponents\bin\Debug\netcoreapp3.1\Lab4 - Exponents.dll
+D:\GrandCircus\Week1\Lab4 - Exponets table\Lab4 - Exponents\Lab4 - Exponents\bin\Debug\netcoreapp3.1\Lab4 - Exponents.pdb
+D:\GrandCircus\Week1\Lab4 - Exponets table\Lab4 - Exponents\Lab4 - Exponents\obj\Debug\netcoreapp3.1\Lab4 - Exponents.csprojAssemblyReference.cache
+D:\GrandCircus\Week1\Lab4 - Exponets table\Lab4 - Exponents\Lab4 - Exponents\obj\Debug\netcoreapp3.1\Lab4 - Exponents.AssemblyInfoInputs.cache
+D:\GrandCircus\Week1\Lab4 - Exponets table\Lab4 - Exponents\Lab4 - Exponents\obj\Debug\netcoreapp3.1\Lab4 - Exponents.AssemblyInfo.cs
+D:\GrandCircus\Week1\Lab4 - Exponets table\Lab4 - Exponents\Lab4 - Exponents\obj\Debug\netcoreapp3.1\Lab4 - Exponents.csproj.CoreCompileInputs.cache
+D:\GrandCircus\Week1\Lab4 - Exponets table\Lab4 - Exponents\Lab4 - Exponents\obj\Debug\netcoreapp3.1\Lab4 - Exponents.dll
+D:\GrandCircus\Week1\Lab4 - Exponets table\Lab4 - Exponents\Lab4 - Exponents\obj\Debug\netcoreapp3.1\Lab4 - Exponents.pdb
+D:\GrandCircus\Week1\Lab4 - Exponets table\Lab4 - Exponents\Lab4 - Exponents\obj\Debug\netcoreapp3.1\Lab4 - Exponents.genruntimeconfig.cache
